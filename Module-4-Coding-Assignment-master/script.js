@@ -1,7 +1,7 @@
 
 (function () {
 
-var names = ["Azer", "Felix", "Jan", "Jason", "Python", "Frank", "Java", "Paul", "Yaakov", "Jim"];
+ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 for (var i = 0; i < names.length; i++) {
 
